@@ -10,9 +10,6 @@ se puede ejecutar en un servidor local con PHP (por ejemplo, XAMPP o WAMP).
 yo utilicé XAMPP Control Panel v3.3.0
 * descargar de su página: https://www.apachefriends.org/es/download_success.html
 
-vista de calculadora
-![imagen](https://github.com/user-attachments/assets/eb2bd3c1-5b05-423e-9837-3a7424e595b7)
-
 ESTRUCTURA:
 ==========
 
@@ -20,3 +17,7 @@ ESTRUCTURA:
    + --- index.php
    + --- estilos.css
    + --- codigo.php
+OUTPUT
+======
+vista de calculadora
+![imagen](https://github.com/user-attachments/assets/eb2bd3c1-5b05-423e-9837-3a7424e595b7)
